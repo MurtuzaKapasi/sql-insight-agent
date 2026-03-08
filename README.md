@@ -37,7 +37,7 @@ flowchart LR
 - SQL safety guardrails (blocks non-SELECT queries)
 - Metadata-guided prompting for better SQL accuracy
 - Plain-language insight generation from SQL results
-- Streamlit UI for quick demos and hackathon judging
+- Streamlit UI for quick and minimal frontend.
 
 ## Tech Stack
 - Frontend: Streamlit
