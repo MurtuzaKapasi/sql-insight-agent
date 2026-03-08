@@ -145,12 +145,6 @@ Current template: `data_model/metadata_template.csv`
 - `400` with SQL warnings:
   Generated query violated SELECT-only policy.
 
-## Future Enhancements
-- Better SQL planning for aggregation intent (top/most/highest)
-- Query audit logs and observability
-- Role-based access control
-- Multi-tenant schema support
-- Benchmark set for SQL accuracy evaluation
 
 ## Inspect PostgreSQL in Docker
 Use these commands to inspect tables/data running inside Docker.
