@@ -1,0 +1,8 @@
+table_name,column_name,data_type,description,synonyms,join_key
+orders,order_id,integer,Unique order identifier,order number,order_id
+orders,order_date,date,Date when order was placed,ordered on,
+orders,product_id,integer,Product reference,sku;item,product_id
+orders,quantity,integer,Quantity of units ordered,units,
+products,product_id,integer,Unique product identifier,sku id,product_id
+products,product_name,text,Product display name,item name,
+products,category,text,Product category,segment,
